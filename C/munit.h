@@ -1,3 +1,4 @@
+#define MUNIT_ENABLE_ASSERT_ALIASES
 #include "/mnt/storage/code/boot.dev/C/munit/munit.h"
 
 // TJ seems to have added a bunch of macros to the default munit.h,
